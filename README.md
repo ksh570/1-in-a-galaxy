@@ -1,4 +1,4 @@
-# Sleeping Explorers
+# 1-in-a-galaxy
 
 NASA Space Apps Challenge 2026 - Abandoned but not Forgotten
 Team Fayston
